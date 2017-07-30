@@ -3,7 +3,7 @@
 /*
  How to use?
 
-open a web console (Ctrl + Shift + k) on the edx page including video in firefox, copy/paste the script in the console after hiting Enter, a green download link to fetch video subtitle appears in bottom of the page.
+open a web console (Ctrl + Shift + k) on the edx page including video in firefox, copy/paste the script in the console after hitting Enter, a green download link to fetch video subtitle appears in bottom of the page.
 */
 
 var make_file = function (data) {
